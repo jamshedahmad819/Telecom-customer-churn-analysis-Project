@@ -88,11 +88,15 @@ Used for:
 Key SQL queries performed:
 
 • Overall churn rate calculation
-• Churn rate by contract type
-• Churn rate by internet service
-• Churn rate by payment method
-• Average tenure by churn status
+
+• Churn  by contract type
+
+• Churn by internet service
+
+• Churn by payment method
+
 • Revenue analysis by churn
+
 • Customer segmentation analysis
 
 ---
@@ -138,9 +142,13 @@ Based on SQL and Power BI analysis:
 Based on insights:
 
 • Encourage customers to choose yearly or long-term contracts
+
 • Provide better tech support services
+
 • Reduce high monthly charges or offer discounts
+
 • Encourage customers to use credit card payment
+
 • Identify high-risk customers early
 
 These actions can help reduce churn and increase customer retention.
