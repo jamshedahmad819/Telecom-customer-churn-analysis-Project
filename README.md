@@ -9,8 +9,11 @@ Customer churn analysis helps businesses understand why customers stop using the
 Goal of this project:
 
 • Identify customers who churned
+
 • Find factors affecting churn
+
 • Calculate churn rate and KPIs
+
 • Help business improve customer retention
 
 This project simulates a real-world business scenario where a data analyst supports management in reducing churn and improving revenue.
