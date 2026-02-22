@@ -86,9 +86,7 @@ Key SQL queries performed:
 ---
 
 # 6. Dashboard Preview
-
-
-
+![image alt](image_url)https://raw.githubusercontent.com/jamshedahmad819/Telecom-customer-churn-analysis-Project/6e65c02b0e945d075389505cf00974668a46a799/Screenshot%202026-02-22%20113316.png
 
 
 # 7. Key Performance Indicators (KPIs)
