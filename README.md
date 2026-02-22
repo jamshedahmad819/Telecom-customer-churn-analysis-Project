@@ -26,10 +26,15 @@ Telecom companies lose customers due to pricing, poor service, contract flexibil
 Business questions answered:
 
 • What is the overall churn rate?
+
 • Which contract type has highest churn?
+
 • Do high monthly charges increase churn?
+
 • Does tech support reduce churn?
+
 • Which payment method has highest churn?
+
 • Which services increase churn risk?
 
 
@@ -44,8 +49,12 @@ Each row represents one telecom customer with service, billing, and churn inform
 Dataset contains:
 
 • Customer demographic data
+
 • Service subscription data
+
 • Billing and payment data
+
+
 • Customer tenure data
 • Churn status (target variable)
 
