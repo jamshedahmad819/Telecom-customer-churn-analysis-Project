@@ -142,8 +142,10 @@ These actions can help reduce churn and increase customer retention.
 # 12. Author
 
 Name: Jamshed Ahmad
+
 Email = jamshedahmad6300@gmail.com
-LinkedIn = 
+
+LinkedIn = https://www.linkedin.com/in/jamshed-ahmad-a6a0b6230/
 
 
 ---
